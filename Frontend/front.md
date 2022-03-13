@@ -12,13 +12,16 @@
 documentation and tutorials to learn about them.
 
 - **html and css** :  
-[Html and CSS Crash course](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
+[Html and CSS Crash course](https://youtube.com/playlist?list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)  
+[documentation](https://developer.mozilla.org/en-US/docs/Web/HTML)
 > about 4-5 hours should be enough.
 - **Sass** :  
-[Sass crash course](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+[Sass crash course](https://www.youtube.com/watch?v=nu5mdN2JIwM)  
+[Sass documentation](https://sass-lang.com/documentation)
 > about 2 - 3 hours should be enough.
 - **javascript** :  
-[basic javascript crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+[basic javascript crash course](https://www.youtube.com/watch?v=hdI2bqOjy3c)  
+[javascript documentation](https://javascript.info)
 > about 1 - 2 days should be enough.  
 > get deep inside.
 - **advanced javascript** :  
@@ -37,4 +40,7 @@ recommended tools :
 - Postman : [postman](https://www.postman.com/downloads/)  
 ps : postman is an api platform for building and using APIs
 we use this tool for api testing.  
-[postman tutorial](https://www.youtube.com/watch?v=FjgYtQK_zLE&ab_channel=ValentinDespa)
+[postman tutorial](https://www.youtube.com/watch?v=FjgYtQK_zLE&ab_channel=ValentinDespa)  
+- typescript (useful but optional) :  
+[typescript crash course](https://www.youtube.com/watch?v=BCg4U1FzODs)  
+[documentation](https://www.typescriptlang.org/docs/)
