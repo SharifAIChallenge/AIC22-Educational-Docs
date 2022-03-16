@@ -17,9 +17,9 @@ def limit():
     return 'This is limit zone!'
 
 @app.route('/endpoint1')
-def limit():
+def endpoint1():
     return 'This is endpoint1'
 
 @app.route('/endpoint2')
-def limit():
+def endpoint2():
     return 'This is endpoint2'
