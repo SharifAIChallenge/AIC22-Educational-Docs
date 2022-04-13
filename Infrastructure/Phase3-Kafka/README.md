@@ -6,4 +6,4 @@
 
 ## Challenge:
 1. Write a consumer and a producer using python.
-2. Checkou [infra repository](https://github.com/SharifAIChallenge/AIC21-Infra) for help.
+2. Checkout [infra repository](https://github.com/SharifAIChallenge/AIC21-Infra) for help.
