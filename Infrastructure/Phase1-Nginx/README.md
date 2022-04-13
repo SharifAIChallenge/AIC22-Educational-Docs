@@ -1,3 +1,13 @@
+## Sources:
+* Videos:
+  - [Nginx basics](https://www.youtube.com/watch?v=C5kMgshNc6g)
+  - [Nginx configuration](https://www.youtube.com/watch?v=JaVb-VRlihg)
+  - [Load balancing with nginx](https://www.youtube.com/watch?v=a41jxGP9Ic8)
+  - [Master in nginx](https://www.youtube.com/watch?v=GGS6KMRbONo)
+* Documents:
+  - [Nginx basics](https://nginx.org/en/docs/beginners_guide.html)
+
+## Challenge:
 1. Clone the repo and start the flask app
 2. Put `nginx.conf` file in `/etc/nginx/conf.d/` directory and start Nginx.
 3. Complete Nginx configuration with these capabilities:
